@@ -24,7 +24,9 @@ This is a very common question. Maybe I'm biased, but I think small team size ma
 
 # How about the producer has already finished building the api and deployed it before the consumer. I don't see why the contract is needed?
 
-1. Producer is finished and deployed. However when the consumer is build their stuff, they would not want to depend on an actual deployment of the provider in their CI pipeline and locally. Test data management is a huge challenge. Also simulation several negative scenarios becomes challenging. 2. In future when provider changes, how do you ensure those changes won't break the consumer? Or for that matter that those changes are expected changes and not some accidental changes?
+1. Producer is finished and deployed. However when the consumer is build their stuff, they would not want to depend on an actual deployment of the provider in their CI pipeline and locally. Test data management is a huge challenge. Also simulation several negative scenarios becomes challenging. 
+
+2. In future when provider changes, how do you ensure those changes won't break the consumer? Or for that matter that those changes are expected changes and not some accidental changes?
 
 # Any tips for GraphQL API contract testing?
 
