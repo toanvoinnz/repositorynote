@@ -1,6 +1,4 @@
-# repositorynote
-This is the note
-#How scalable is contract testing with specmatic?
+# How scalable is contract testing with specmatic?
 
 In Jio, we've 4K+ contracts and it works pretty fast
 
