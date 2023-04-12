@@ -23,5 +23,5 @@ In my experience people typically use mono-repo for their microservices (provide
 This is a very common question. Maybe I'm biased, but I think small team size makes collaboration easy, however on small team you might not have the bandwidth to manually write a lot of API tests. With specmatic we generate a lot of them for free (no-code.) Also the sooner you make this a practice, as the team scales, it becomes easy to manage contracts.
 
 # Note
-Technical Note 
+All Technical Note 
 
