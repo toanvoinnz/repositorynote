@@ -9,3 +9,7 @@ unable to access 'https://github.com/xxx.git/': SSL certificate problem: self si
 ```
 git config --global http.sslbackend schannel
 ```
+
+# Step by step deploy docker image to kubernetes at local machine
+
+https://www.middlewareinventory.com/blog/deploy-docker-image-to-kubernetes/
